@@ -12,7 +12,7 @@ var bio = {
   },
   "welcome-message": "Welcome! I am Adam Podraza and I have been a software engineer for four years.",
   "skills": ["Android", "Core Java", "Ruby on Rails", "HTML", "CSS", "JavaScript", "Web Development"],
-  "bioPic": "images/denver_shelter.png"
+  "bioPic": "images/Adam_Denver.jpg"
 }
 
 var work = {
