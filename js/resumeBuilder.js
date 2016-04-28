@@ -105,9 +105,6 @@ var displayHeader = function() {
   var formattedName = HTMLheaderName.replace("%data%", bio.name);
   $("#header").prepend(formattedName);
 
-  var formattedMobile = HTMLmobile.replace("%data%", bio.contacts.mobile);
-  $("#topContacts").prepend(formattedMobile);
-
   var formattedEmail = HTMLemail.replace("%data%", bio.contacts.email);
   $("#topContacts").prepend(formattedEmail);
 
